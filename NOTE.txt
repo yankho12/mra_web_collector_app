@@ -1,1 +1,2 @@
+For the web app didnt use a frame work like Django or Laravel which are my favourites so as to show that i understand the raw programming
 where your encounter "*******" it means i have deliberately omitted some secure information from the code
